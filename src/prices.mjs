@@ -88,6 +88,7 @@ function createApp(database) {
         return true; 
       }
     }
+    return false;
   }
 
   return app;
